@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muika-media.github.io/vod-site/sitemap.xml
